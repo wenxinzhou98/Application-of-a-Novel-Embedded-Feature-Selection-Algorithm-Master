@@ -1,1 +1,3 @@
 # Application-of-a-Novel-Embedded-Feature-Selection-Algorithm-Master
+
+This repository is uploaded for the paper <Application of a Novel Embedded Feature Selection Algorithm> accepted by <Journal of TongJi University (Natural Science)> (EI). All the experiments in this paper can be repeated in src directory. However, the codes are a bit disordered. So try to deduce the meaning of each function...
